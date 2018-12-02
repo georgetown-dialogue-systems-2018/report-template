@@ -1,6 +1,9 @@
 # report-template
 Template for Dialogue Systems Final Project Report
 
+### Overview
+For the final project submission, you will be expected to submit both a report and the code associated with your project. Below are details on getting setup for both. 
+
 #### Templates
 * [LaTeX template](https://naacl2019.org/downloads/naaclhlt2019-latex.zip)
 * [Word template](https://naacl2019.org/downloads/naaclhlt2019-word.zip)
@@ -13,6 +16,10 @@ You must install a version of [LaTeX](https://www.latex-project.org/get/) or [Mi
 #### LaTeX Setup
 * [Possible Mac setup with Atom](http://economistry.com/2016/02/create-first-pdf-latex-atom-mac/)
 * [Possible Windows setup with Notepad++](http://johnbruer.com/2013/05/21/latex-editing-using-notepad/)
+
+#### Writing Advice
+* While the general organization of the final project report is up to you (as long as it follows the [Final Project Description](https://georgetown.instructure.com/courses/61204/pages/final-project-description) by including an Introduction, Related Work, Approach, Evaluation, and Conclusions), one recommended format is from Svetlana Stoyanchev's class [here](http://www.cs.columbia.edu/~sstoyanchev/SDS2015/#project) (under `6. Final Report`).
+* For thinking about organization of demonstration papers (if you are thinking about submitting an eventual version of your work to a conference demonstration track), you can browse the SIGdial Demo Proceedings (e.g., [Lee et al.](https://www.sigdial.org/files/workshops/conference19/proceedings/pdf/SIGdial28.pdf) or [Papangelis et al.](https://www.sigdial.org/files/workshops/conference19/proceedings/pdf/SIGdial25.pdf)) or the [ACL Demo Proceedings](https://aclanthology.info/volumes/proceedings-of-acl-2018-system-demonstrations) (e.g., [Lukin et al.](http://aclweb.org/anthology/P18-4016) or [Burstev et al.](http://aclweb.org/anthology/P18-4021)).
 
 #### Software Repo Setup
 * Add your repository to this organization.
